@@ -32,3 +32,10 @@ Aa good first step is to build a simple Hello World application.
 ❗ You need to fork  my app to edit it but during the seminar I will give you access to edit my code.
 
 Things to do: change the background colour, font size, add another line of text, some emojis in different parts of the text.
+
+#### `Hello world` code in this repo
+
+You can also download or just look over, copy one line and so on the code file in this repo.
+
+The intro file is called `tk_start.py`.
+
