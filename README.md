@@ -25,7 +25,7 @@ For complex or visually appealing applications, professionals often choose other
 
 Aa good first step is to build a simple Hello World application.
 
-[Here](https://replit.com/@missPunter/intro-tkinter-ifcs2#main.py) is one you can fork and experiment with.
+[Here](https://replit.com/@missPunter/intro-tkinter-ifcs2#main.py) 👈🏽 is one you can fork and experiment with.
 
 ##### 🍴 Please, fork
 
