@@ -41,3 +41,26 @@ The intro file is called `tk_start.py`.
 
 ### `button_act`
 
+The [replit](https://replit.com/@missPunter/buttonact#main.py) can be forked.
+
+Things to try with this code:
+
+- add more colours
+- pick a random hex colour
+- do not allow to pick the same color
+- add another button and add more things like text, shapes
+
+The code in the repo for this is `button_act.py`
+
+### `name_to_csv`
+
+This is already a small project that has a .csv storage.
+
+[Here](https://replit.com/@missPunter/nametocsvpy#main.py) is the replit project.
+
+The script file in repo is `name_to_csv.py`.
+
+Things to try with this code:
+
+- add colours and styles
+- delete the `.csv` and see if it works after
