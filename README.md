@@ -1,4 +1,4 @@
-# tkinter resources for the IFCS II
+# 👩🏻‍💻👩‍💻👩🏿‍💻 tkinter resources for the IFCS II
 
 ## tkinter intro
 
@@ -15,6 +15,14 @@ For complex or visually appealing applications, professionals often choose other
 ## The steps to learn tkinter
 
 ### `Hello world`
+
+#### `Hello world` in a replit
+
+[Replit](https://replit.com/) is an online integrated development environment (IDE) that allows users to write code in various programming languages **directly in the web browser.** It supports a multitude of programming languages, including Python, JavaScript, Java, C++, HTML/CSS, and many more.
+
+> Please, make sure you have your own [replit](https://replit.com) account for the seminars.
+
+❗ To start a new tkinter project in replit choose the tkinter template.
 
 Aa good first step is to build a simple Hello World application.
 
